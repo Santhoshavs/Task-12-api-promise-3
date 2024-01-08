@@ -1,0 +1,1 @@
+This Task contains variety of dogs breed photos using api fetch.
